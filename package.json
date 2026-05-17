@@ -1,0 +1,30 @@
+{
+  "name": "invite.js",
+  "version": "1.0.7",
+  "description": "Discord.JS v14 sürümüne özel yapılmış olan basit davet Modülüdür",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamoIsReaLoL/invitejs.git"
+  },
+  "keywords": [
+    "davet",
+    "invite",
+    "davet",
+    "modülü",
+    "invite",
+    "module",
+    "invite",
+    "manager",
+    "davet",
+    "sayıcı"
+  ],
+  "author": "RamoIsReaLoL",
+  "bugs": {
+    "url": "https://github.com/RamoIsReaLoL/invitejs/issues"
+  },
+  "homepage": "https://github.com/RamoIsReaLoL/invitejs#readme"
+}
